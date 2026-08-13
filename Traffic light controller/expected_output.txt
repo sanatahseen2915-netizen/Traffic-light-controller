@@ -1,0 +1,13 @@
+Traffic Light Controller Simulation
+
+Time=0  | Reset=1 | RED=1 | YELLOW=0 | GREEN=0
+Time=10 | Reset=0 | RED=1 | YELLOW=0 | GREEN=0
+Time=15 | Reset=0 | RED=0 | YELLOW=0 | GREEN=1
+Time=25 | Reset=0 | RED=0 | YELLOW=1 | GREEN=0
+Time=35 | Reset=0 | RED=1 | YELLOW=0 | GREEN=0
+Time=45 | Reset=0 | RED=0 | YELLOW=0 | GREEN=1
+Time=55 | Reset=0 | RED=0 | YELLOW=1 | GREEN=0
+Time=65 | Reset=0 | RED=1 | YELLOW=0 | GREEN=0
+
+Sequence:
+RED → GREEN → YELLOW → RED → GREEN → YELLOW → RED 
